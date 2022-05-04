@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Arek
 - 🎓 I'm an IT student at Silesian University of Technology
 - 👀 I’m interested in mobile and web development
-- 🌱 I’m currently learning Flutter Framework
+- 🌱 I’m currently learning web development
 - 👨‍💻 I'm looking for internship to gain experience and meet great people
 - 📫 Reach me at arek.gizdon99@gmail.com
 
